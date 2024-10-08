@@ -1,5 +1,5 @@
 # Seedphrase Generator
- 
+  
 ## Fast & easy Python seedphrase generator
 
 # Guide on how to use these tool
