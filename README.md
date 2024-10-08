@@ -1,4 +1,4 @@
-# Seedphrase Generator
+# Seedphrase Generator 
     
 ## Fast & easy Python seedphrase generator
 
